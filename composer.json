@@ -1,7 +1,12 @@
 {
-    "name": "antpool",
-    "require": {
-        "antpool": "dev-master",
-      "php": "^5.6.15"
-    }
+    "name": "antpool-php-api/antpool-php-api",
+    "description": "nothing",
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "KhoaNguyen",
+            "email": "s0ft4u@github.com"
+        }
+    ],
+    "require": {}
 }
